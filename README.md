@@ -8,7 +8,7 @@
 - Run `dmypy start`
 - Run `dmypy run app.py`
 - No error should show up
-- Go into the file and edit a string (or anything meaningful)
+- Go into the app.py file and edit a string (or anything meaningful)
 - Run `dmypy run app.py`
 - Now the following crash should appear:
 ```
